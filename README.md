@@ -1,1 +1,2 @@
 # Birthday-Reminders
+This JavaScript program is a simple birthday tracker app. It lets users add, remove, and view birthdays, and also generates random birthday messages. It stores names, birthdates, and birth years in arrays, displays all birthdays on the page, and checks if any match today’s date to show a “Today’s Birthday” list. It also includes a feature to generate a random birthday wish for any name.
